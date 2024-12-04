@@ -1,0 +1,37 @@
+{
+    "CategoryHash": {
+        "Blend": "0f0feeb5",
+        "Position": "d7476183",
+        "Texcoord": "3d641b44"
+    },
+    "MatchFirstIndex": [
+        "0",
+        "24609"
+    ],
+    "PartNameList": [
+        "1",
+        "2"
+    ],
+    "PartNameTextureResourceReplaceList": {
+        "1": [
+            "ps-t0 = 4e2fd714-ecd856e1-1-DiffuseMap.dds",
+            "ps-t1 = 4e2fd714-c08eb1a6-1-LightMap.dds"
+        ],
+        "2": [
+            "ps-t0 = 4e2fd714-ecd856e1-2-DiffuseMap.dds",
+            "ps-t1 = 4e2fd714-c08eb1a6-2-LightMap.dds"
+        ]
+    },
+    "TmpElementList": [
+        "POSITION",
+        "NORMAL",
+        "TANGENT",
+        "COLOR",
+        "TEXCOORD",
+        "TEXCOORD1",
+        "BLENDWEIGHTS",
+        "BLENDINDICES"
+    ],
+    "VertexLimitVB": "64b0dde3",
+    "WorkGameType": "HSR_T1_Body_T1"
+}

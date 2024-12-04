@@ -1,0 +1,25 @@
+{
+    "CategoryHash": {
+        "Blend": "2c8984d2",
+        "Position": "2ab72eec",
+        "Texcoord": "063971bb"
+    },
+    "MatchFirstIndex": [
+        "0"
+    ],
+    "PartNameList": [
+        "1"
+    ],
+    "PartNameTextureResourceReplaceList": {},
+    "TmpElementList": [
+        "POSITION",
+        "NORMAL",
+        "TANGENT",
+        "COLOR",
+        "TEXCOORD",
+        "BLENDWEIGHTS",
+        "BLENDINDICES"
+    ],
+    "VertexLimitVB": "da10a7df",
+    "WorkGameType": "HSR_21_Face"
+}

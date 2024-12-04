@@ -1,0 +1,43 @@
+{
+    "CategoryHash": {
+        "Blend": "fac257f8",
+        "Position": "57c6ac81",
+        "Texcoord": "5c7e4e5b"
+    },
+    "MatchFirstIndex": [
+        "0",
+        "26076",
+        "29664"
+    ],
+    "PartNameList": [
+        "1",
+        "2",
+        "3"
+    ],
+    "PartNameTextureResourceReplaceList": {
+        "1": [
+            "ps-t0 = 525c4868-6a26a2c6-1-DiffuseMap.dds",
+            "ps-t1 = 525c4868-d5d5edbb-1-LightMap.dds"
+        ],
+        "2": [
+            "ps-t0 = 525c4868-6a26a2c6-2-DiffuseMap.dds",
+            "ps-t1 = 525c4868-d5d5edbb-2-LightMap.dds"
+        ],
+        "3": [
+            "ps-t0 = 525c4868-6a26a2c6-3-DiffuseMap.dds",
+            "ps-t1 = 525c4868-d5d5edbb-3-LightMap.dds"
+        ]
+    },
+    "TmpElementList": [
+        "POSITION",
+        "NORMAL",
+        "TANGENT",
+        "COLOR",
+        "TEXCOORD",
+        "TEXCOORD1",
+        "BLENDWEIGHTS",
+        "BLENDINDICES"
+    ],
+    "VertexLimitVB": "c433a8ce",
+    "WorkGameType": "HSR_T1_Hair-2"
+}
